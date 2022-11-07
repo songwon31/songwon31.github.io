@@ -1,12 +1,11 @@
 ---
 layout: post
-title:  "First post for ROS"
-date:   2022-11-07 16:45:00
+title:  "ROS test"
+date:   2022-11-07 16:53:59
 author: songwon
 categories: ROS
-custom_js :                    # 해당 포스트에 적용하는 커스터마이징한 js (`js`폴더에 있는 js이름 넣기)
-tags:                 # 태그... 띄어쓰기를 통해 사용
-cover:
+tags:	ros welcome
+cover:  "/assets/instacode.png"
 ---
 
 You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
