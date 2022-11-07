@@ -37,10 +37,21 @@ cover:  "/assets/instacode.png"
 **4. rosdep 초기화**
 
 `$ sudo apt install python-rosdep`
+
 `$ sudo rosdep init`
+
 `$ rosdep update`
 
 **5. 쉘 환경 설정**
+
 `$ echo "source /opt/ros/melodic/setup.bash" >> ~/.bashrc`
+
 `$ source ~/.bashrc`
 
+**6. 추가로 필요한 도구 등 설치**
+
+`$ sudo apt install python-rosinstall pyton-rosinstall-generator python-wstool build-essential`
+
+**7. 설치 확인**
+
+`$ roscore' 명령을 실행했을 때 ROS가 정상적으로 작동되면 설치 성공!
