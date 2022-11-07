@@ -54,4 +54,4 @@ cover:  "/assets/instacode.png"
 
 **7. 설치 확인**
 
-`$ roscore' 명령을 실행했을 때 ROS가 정상적으로 작동되면 설치 성공!
+`$ roscore` 명령을 실행했을 때 ROS가 정상적으로 작동되면 설치 성공!
