@@ -1,4 +1,5 @@
-날짜를 2022년으로 하면 포스팅이 안됨. 정확히는 모르겠지만 2015년 안쪽은 가능한
+날짜를 2022년으로 하면 포스팅이 안됨. 정확히는 모르겠지만 2015년 안쪽은 가능한듯. 추후 수정하기!
+
 
 # Centrarium [![Circle CI](https://circleci.com/gh/bencentra/centrarium/tree/master.svg?style=svg)](https://circleci.com/gh/bencentra/centrarium/tree/master)
 
