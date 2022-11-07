@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "first ros post"
+title:  "First ros post"
 date:   2022-11-07 16:53:59
 author: songwon
 categories: ROS
