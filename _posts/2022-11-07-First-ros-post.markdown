@@ -3,7 +3,7 @@ layout: post
 title:  "First ros post"
 date:   2022-11-07 16:53:59
 author: Ben Centra
-categories: ROS
+categories: ros
 tags:	jekyll welcome
 cover:  "/assets/instacode.png"
 ---
