@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  "First ros post"
+title:  "ROS 기초"
 date:   2012-11-07T16:53:59
 author: songwon
 categories: ros
-tags:	ros welcome
+tags:	ros
 cover:  "/assets/instacode.png"
 ---
 
