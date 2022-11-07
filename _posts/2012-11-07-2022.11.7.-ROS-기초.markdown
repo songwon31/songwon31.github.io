@@ -8,9 +8,7 @@ tags:	ros
 cover:  "/assets/instacode.png"
 ---
 # ROS 설치
-
 ---
-
  ROS 설치는 Ubuntu 18.04 환경에서 진행하였습니다.
  
 1. ROS를 제공하는 Software Repository 등록
