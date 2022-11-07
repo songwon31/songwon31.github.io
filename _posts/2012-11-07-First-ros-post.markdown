@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "1. ROS 기초"
+title:  "2022.11.7. ROS 기초"
 date:   2012-11-07T16:53:59
 author: songwon
 categories: ros
