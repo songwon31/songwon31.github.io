@@ -61,7 +61,7 @@ descriptions:
     desc: "Just some placeholder posts, lorem ipsum and the rest."
 
   - cat: ROS
-    desc: "Category for Robot Operating System"
+    desc: "Category for Robot Operating System."
 
 # Social icons and sharing options
 #
