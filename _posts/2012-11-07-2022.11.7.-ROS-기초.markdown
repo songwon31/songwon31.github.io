@@ -17,11 +17,11 @@ $`sudo sh -c 'echo "deb http://packages.ros.org/ros/ubuntu $(lsb_release -sc) ma
   
 $`cat /etc/apt/sources.list.d/ros-latest.list`
 
-**2. apt key를 셋업
+**2. apt key를 셋업**
 
 $`sudo apt-key adv --keyserver 'hkp://keyserver.ubuntu.com:80' --recv-key C1CF6E31E68ADE8878B172B4F42ED6FBAB17C654`
  
-**3. 패키지 설치 
+**3. 패키지 설치**
 
 $`sudo apt-get update`
 
