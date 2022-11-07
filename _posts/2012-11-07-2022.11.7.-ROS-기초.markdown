@@ -15,12 +15,8 @@ cover:  "/assets/instacode.png"
  
 - ROS를 제공하는 Software Repository 등록
 
-'''python
-<script>
-  sudo sh -c 'echo "deb http://packages.ros.org/ros/ubuntu $(lsb_release -sc) main" > /etc/apt/sources.list.d/ros-latest.list'
-  cat /etc/apt/sources.list.d/ros-latest.list
-</script>
-'''
+  'sudo sh -c 'echo "deb http://packages.ros.org/ros/ubuntu $(lsb_release -sc) main" > /etc/apt/sources.list.d/ros-latest.list''
+  'cat /etc/apt/sources.list.d/ros-latest.list'
 
 - 
 
