@@ -7,9 +7,22 @@ categories: ros
 tags:	ros
 cover:  "/assets/instacode.png"
 ---
-# ROS 기초
+# ROS 설치
 
 ---
+
+ ROS 설치는 Ubuntu 18.04 환경에서 진행하였습니다.
+ 
+- ROS를 제공하는 Software Repository 등록
+
+'''python
+<script>
+  sudo sh -c 'echo "deb http://packages.ros.org/ros/ubuntu $(lsb_release -sc) main" > /etc/apt/sources.list.d/ros-latest.list'
+  cat /etc/apt/sources.list.d/ros-latest.list
+</script>
+'''
+
+- 
 
 
 To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
