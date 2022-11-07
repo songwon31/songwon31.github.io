@@ -4,7 +4,7 @@ title:  "first ros post"
 date:   2022-11-07 16:53:59
 author: songwon
 categories: ROS
-tags:	ros welcome
+tags:	jekyll welcome
 cover:  "/assets/instacode.png"
 ---
 
