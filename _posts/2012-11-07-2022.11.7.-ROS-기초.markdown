@@ -30,6 +30,7 @@ cover:  "/assets/instacode.png"
 
 `$ sudo apt-get update`
  - ROS 설치 전에 Debian package index를 최신으로 유지해줍니다.
+
 '$ sudo apt install ros-melodic-desktop-full'
  - ROS, rqt, rviz, robot-generic libraries, 2D/3D simulators and 2D/3D perception가 모두 포함되어 있는 풀 패키지를 설치합니다.
 
