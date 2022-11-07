@@ -14,8 +14,13 @@ cover:  "/assets/instacode.png"
 **1. ROS를 제공하는 Software Repository 등록** 
 
 `$ sudo sh -c 'echo "deb http://packages.ros.org/ros/ubuntu $(lsb_release -sc) main" > /etc/apt/sources.list.d/ros-latest.list'`
+
+ - echo 명령어를 사용하여 /etc/apt/sources.list.d/ros-latest.list에 software repository를 등록합니다.
+ - lsb_release -sc를 통해 현재 사용중인 Ubuntu 버전을 삽입합니다.(18.04는 bionic)
   
 `$ cat /etc/apt/sources.list.d/ros-latest.list`
+
+ - 정상적으로 등록되었다면 `deb http://packages.ros.org/ros/ubuntu bionic main`이 출력됩니다.
 
 **2. apt key를 셋업**
 
